@@ -37,4 +37,4 @@ Evaluation of the dataset is done by applying various machine learning algorithm
 The system’s performance is evaluated by comparing the predicted diseases that were obtained by the proposed system with the one obtained from WebMD’s Symptom Checker Module ( https://symptoms.webmd.com/default.htm ) and it showed similar results.
 
 # Contributions
-Project _came into reality_ by [Anand Sharma](mailto:anand19059@iiitd.ac.in), [Nikunj Agarwal](mailto:nikunj19093@iiitd.ac.in) and [Rahul Maheshwari](mailto:rahul19027@iiitd.ac.in). Feel free to contact any of us in case of any problem faced or complexity faced.
+Project _came into reality_ by [Anand Sharma](mailto:anand19059@iiitd.ac.in), [Nikunj Agarwal](mailto:nikunj19093@iiitd.ac.in) and [Rahul Maheshwari](mailto:rahul19027@iiitd.ac.in). Feel free to contact any of us in case of any problem faced.
