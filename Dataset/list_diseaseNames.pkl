@@ -1,0 +1,475 @@
+(lp0
+S'Abscess'
+p1
+aS'Alzheimer'
+p2
+aS'Anotia'
+p3
+aS'Anthrax'
+p4
+aS'Appendicitis'
+p5
+aS'Apraxia'
+p6
+aS'Argyria'
+p7
+aS'Arthritis'
+p8
+aS'Aseptic meningitis'
+p9
+aS'Asthenia'
+p10
+aS'Asthma'
+p11
+aS'Astigmatism'
+p12
+aS'Atherosclerosis'
+p13
+aS'Athetosis'
+p14
+aS'Atrophy'
+p15
+aS'Bacterial meningitis'
+p16
+aS'Beriberi'
+p17
+aS'Black Death'
+p18
+aS'Botulism'
+p19
+aS'Breast cancer'
+p20
+aS'Bronchitis'
+p21
+aS'Brucellosis'
+p22
+aS'Bubonic plague'
+p23
+aS'Bunion'
+p24
+aS'Calculi'
+p25
+aS'Campylobacter infection'
+p26
+aS'Cancer'
+p27
+aS'Candidiasis'
+p28
+aS'Carbon monoxide poisoning'
+p29
+aS'Celiacs disease'
+p30
+aS'Cerebral palsy'
+p31
+aS'Chagas disease'
+p32
+aS'Chalazion'
+p33
+aS'Chancroid'
+p34
+aS'Chavia'
+p35
+aS'Congenital insensitivity to pain with anhidrosis'
+p36
+aS'Cherubism'
+p37
+aS'Chickenpox'
+p38
+aS'Chlamydia'
+p39
+aS'Chlamydia trachomatis'
+p40
+aS'Cholera'
+p41
+aS'Chordoma'
+p42
+aS'Chorea'
+p43
+aS'Chronic fatigue syndrome'
+p44
+aS'Circadian rhythm sleep disorder'
+p45
+aS'Coccidioidomycosis'
+p46
+aS'Colitis'
+p47
+aS'Common cold'
+p48
+aS'Condyloma'
+p49
+aS'Congestive heart disease'
+p50
+aS'Coronary heart disease'
+p51
+aS'Cowpox'
+p52
+aS'Cretinism'
+p53
+aS'Dengue'
+p54
+aS'Diabetes mellitus'
+p55
+aS'Diphtheria'
+p56
+aS'Dehydration'
+p57
+aS'Dysentery'
+p58
+aS'Ear infection'
+p59
+aS'Ebola'
+p60
+aS'Encephalitis'
+p61
+aS'Emphysema'
+p62
+aS'Epilepsy'
+p63
+aS'Erectile dysfunctions'
+p64
+aS'Fibromyalgia'
+p65
+aS'flu'
+p66
+aS'Gangrene'
+p67
+aS'Gastroenteritis'
+p68
+aS'Genital herpes'
+p69
+aS'GERD'
+p70
+aS'Goitre'
+p71
+aS'Gonorrhea'
+p72
+aS'Heart disease'
+p73
+aS'Hepatitis A'
+p74
+aS'Hepatitis B'
+p75
+aS'Hepatitis C'
+p76
+aS'Hepatitis D'
+p77
+aS'Hepatitis E'
+p78
+aS'HIV'
+p79
+aS'Human papillomavirus'
+p80
+aS'Hypermetropia'
+p81
+aS'Hyperopia'
+p82
+aS'Hyperthyroidism'
+p83
+aS'Hypothyroid'
+p84
+aS'Hypotonia'
+p85
+aS'Impetigo'
+p86
+aS'Infertility'
+p87
+aS'Influenza'
+p88
+aS'Interstitial cystitis'
+p89
+aS'Iritis'
+p90
+aS'Iron-deficiency anemia'
+p91
+aS'Irritable bowel syndrome'
+p92
+aS'Ignious Syndrome'
+p93
+aS'Jaundice'
+p94
+aS'Keloids'
+p95
+aS'Kuru'
+p96
+aS'Kwashiorkor'
+p97
+aS'Kidney stone disease'
+p98
+aS'Laryngitis'
+p99
+aS'Lead poisoning'
+p100
+aS'Legionellosis'
+p101
+aS'Leishmaniasis'
+p102
+aS'Leprosy'
+p103
+aS'Leptospirosis'
+p104
+aS'Listeriosis'
+p105
+aS'Leukemia'
+p106
+aS'Lice'
+p107
+aS'Loiasis'
+p108
+aS'Lung cancer'
+p109
+aS'Lupus erythematosus'
+p110
+aS'Lyme disease'
+p111
+aS'Lymphogranuloma venereum'
+p112
+aS'Lymphoma'
+p113
+aS'Limbtoosa'
+p114
+aS'Mad cow disease'
+p115
+aS'Malaria'
+p116
+aS'Marburg fever'
+p117
+aS'Measles'
+p118
+aS'Melanoma'
+p119
+aS'Metastatic cancer'
+p120
+aS'Meningitis'
+p121
+aS'Migraine'
+p122
+aS'Mononucleosis'
+p123
+aS'Multiple myeloma'
+p124
+aS'Multiple sclerosis'
+p125
+aS'Mumps'
+p126
+aS'Muscular dystrophy'
+p127
+aS'Myasthenia gravis'
+p128
+aS'Myelitis'
+p129
+aS'Myoclonus'
+p130
+aS'Myopia'
+p131
+aS'Myxedema'
+p132
+aS'Morquio Syndrome'
+p133
+aS'Mattticular syndrome'
+p134
+ag123
+aS'Neoplasm'
+p135
+aS'Non-gonococcal urethritis'
+p136
+aS'Necrotizing Fasciitis'
+p137
+aS'Night blindness'
+p138
+aS'Obesity'
+p139
+aS'Osteoarthritis'
+p140
+aS'Osteoporosis'
+p141
+aS'Otitis'
+p142
+aS'Palindromic rheumatism'
+p143
+aS'Paratyphoid fever'
+p144
+aS'Pelvic inflammatory disease'
+p145
+aS'Peritonitis'
+p146
+aS'Periodontal disease'
+p147
+aS'Pertussis'
+p148
+aS'Plague'
+p149
+aS'Poliomyelitis'
+p150
+aS'Porphyria'
+p151
+aS'Progeria'
+p152
+aS'Prostatitis'
+p153
+aS'Psittacosis'
+p154
+aS'Psoriasis'
+p155
+aS'Pubic lice'
+p156
+aS'Pulmonary embolism'
+p157
+aS'Pilia'
+p158
+aS'pneumonia'
+p159
+aS'Ques fever'
+p160
+aS'Rabies'
+p161
+aS'Repetitive strain injury'
+p162
+aS'Rheumatic fever'
+p163
+aS'Rheumatic heart'
+p164
+aS'Rheumatism'
+p165
+aS'Rheumatoid arthritis'
+p166
+aS'Rickets'
+p167
+aS'Rift Valley fever'
+p168
+aS'Rocky Mountain spotted fever'
+p169
+aS'Rubella'
+p170
+aS'Salmonellosis'
+p171
+aS'Scabies'
+p172
+aS'Scarlet fever'
+p173
+aS'Sciatica'
+p174
+aS'Scleroderma'
+p175
+aS'Scrapie'
+p176
+aS'Scurvy'
+p177
+aS'Sepsis'
+p178
+aS'Septicemia'
+p179
+aS'SARS'
+p180
+aS'Shigellosis'
+p181
+aS'Shin splints'
+p182
+aS'Shingles'
+p183
+aS'Sickle-cell anemia'
+p184
+aS'Siderosis'
+p185
+aS'SIDS'
+p186
+aS'Silicosis'
+p187
+aS'Smallpox'
+p188
+aS'Stevens-Johnson syndrome'
+p189
+aS'Stomach flu'
+p190
+aS'Stomach ulcers'
+p191
+aS'Strabismus'
+p192
+aS'Strep throat'
+p193
+aS'Streptococcal infection'
+p194
+aS'Synovitis'
+p195
+aS'Syphilis'
+p196
+aS'Swine influenza'
+p197
+aS'Schizophrenia'
+p198
+aS'Taeniasis'
+p199
+aS'Tay-Sachs disease'
+p200
+aS'Tennis elbow'
+p201
+aS'Teratoma'
+p202
+aS'Tetanus'
+p203
+aS'Thalassaemia'
+p204
+aS'Thrush'
+p205
+aS'Thymoma'
+p206
+aS'Tinnitus'
+p207
+aS'Tonsillitis'
+p208
+aS'Tooth decay'
+p209
+aS'Toxic shock syndrome'
+p210
+aS'Trichinosis'
+p211
+aS'Trichomoniasis'
+p212
+aS'Trisomy'
+p213
+aS'Tuberculosis'
+p214
+aS'Tularemia'
+p215
+aS'Tungiasis'
+p216
+aS'Typhoid fever'
+p217
+aS'Typhus'
+p218
+aS'Tumor'
+p219
+aS'Ulcerative colitis'
+p220
+aS'Ulcers'
+p221
+aS'Uremia'
+p222
+aS'Urticaria'
+p223
+aS'Uveitis'
+p224
+aS'Varicella'
+p225
+aS'Varicose veins'
+p226
+aS'Vasovagal syncope'
+p227
+aS'Vitiligo'
+p228
+aS'Von Hippel-Lindau disease'
+p229
+aS'Viral fever'
+p230
+aS'Viral meningitis'
+p231
+aS'Warkany syndrome'
+p232
+aS'Warts'
+p233
+aS'Watkins'
+p234
+aS'Yellow fever'
+p235
+aS'Yersiniosis'
+p236
+a.
